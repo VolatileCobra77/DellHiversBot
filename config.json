@@ -1,4 +1,5 @@
 {
+    "comment":"This is the config file for the bot, any changes can be made via pull request, you must be a valid member of the discord to make a PR. I will review all of them and who sent them, so nothing SUPER racist or homophobic (Im talking to you ME IS ME and Milk) a little is okay as long as its in the spicy section.",
     "callStartMessages":{
         "tame":["HELLDIVERS! OUR BROTHEREN NEED US, JOIN THE VC!!!"],
         "mild":["JOIN UP DUMBASSES. THE HELLDIVERS NEED YOU!!"],
