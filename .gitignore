@@ -1,0 +1,6 @@
+Include
+Lib
+Scripts
+.env
+main.py
+pyvenv.cfg
